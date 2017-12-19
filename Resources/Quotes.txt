@@ -1,0 +1,9 @@
+“If you are focusing on what computer language to learn then you do not yet understand software engineering.”
+-- https://www.quora.com/profile/Caitlin-Bestler
+
+"If all you want to do is write front-end web apps, then JavaScript may be your ticket. But for the rest of IT,
+which includes leading-edge areas such as Artificial Intelligence, robotics, Big Data, Internet of Things,
+Virtual Reality, scientific modelling and simulation, cloud computing, etc., JavaScript has no traction
+against superior language competitors in each of those areas. Your JavaScript skills are not be easily 
+transferrable. Thus, JavaScript is a colossal waste of time."
+-- https://www.quora.com/profile/Richard-Eng-1
